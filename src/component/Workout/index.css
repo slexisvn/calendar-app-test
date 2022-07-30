@@ -1,0 +1,23 @@
+.workout-container {
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  border-radius: 6px;
+}
+
+.workout-container:not(:last-child) {
+  margin-bottom: 4px;
+}
+
+.workout-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  text-transform: uppercase;
+  color: #5A57CB;
+  max-width: calc(100% - 28px);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 5px 7px;
+}

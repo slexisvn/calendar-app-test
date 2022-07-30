@@ -1,0 +1,78 @@
+[
+  {
+    "dayOfWeek": "Mon",
+    "dayOfMonth": "05",
+    "workouts": []
+  },
+  {
+    "dayOfWeek": "Tue",
+    "dayOfMonth": "06",
+    "workouts": [
+      {
+        "workoutName": "Chest Day - with Arm exercises",
+        "exercises": [
+          {
+            "exerciseName": "Bench Press Medium Grip",
+            "information": "50 lb x 5, 60 lb x 5, 70 lb x 5"
+          },
+          {
+            "exerciseName": "Exercise B",
+            "information": "40 lb x 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayOfWeek": "Wed",
+    "dayOfMonth": "07",
+    "workouts": [
+      {
+        "workoutName": "Leg DaY",
+        "exercises": [
+          {
+            "exerciseName": "Exercise E",
+            "information": "50 lb x 5"
+          },
+          {
+            "exerciseName": "Exercise C",
+            "information": "30 lb x 6"
+          },
+          {
+            "exerciseName": "Exercise D",
+            "information": "40 lb x 5"
+          }
+        ]
+      },
+      {
+        "workoutName": "Arm day",
+        "exercises": [
+          {
+            "exerciseName": "Exercise F",
+            "information": "30 lb x 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayOfWeek": "Thu",
+    "dayOfMonth": "08",
+    "workouts": []
+  },
+  {
+    "dayOfWeek": "Fri",
+    "dayOfMonth": "09",
+    "workouts": []
+  },
+  {
+    "dayOfWeek": "Sat",
+    "dayOfMonth": "10",
+    "workouts": []
+  },
+  {
+    "dayOfWeek": "Sun",
+    "dayOfMonth": "11",
+    "workouts": []
+  }
+]
